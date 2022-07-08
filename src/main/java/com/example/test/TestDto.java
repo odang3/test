@@ -2,6 +2,6 @@ package com.example.test;
 
 public class TestDto {
 
-    private String name;
+    static String name;
 
 }
